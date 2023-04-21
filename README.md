@@ -7,7 +7,7 @@ Following along with YouTube Video: [ChatGPT Course - Use The OpenAPI to Code 5 
 POST: https://api.openai.com/v1/completions<br />
 model: text-davinci-003<br />
 <br />
-## /demo2 - Using Chat Completion<br />
+## /demo2 - Using Create Chat Completion<br />
 POST: https://api.openai.com/v1/chat/completions<br />
 model: gpt-3.5-turbo<br />
 <br />

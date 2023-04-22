@@ -11,5 +11,12 @@ model: text-davinci-003<br />
 POST: https://api.openai.com/v1/chat/completions<br />
 model: gpt-3.5-turbo<br />
 <br />
-
+## /project1 - Chat Completion Using JavaScript<br />
+POST: https://api.openai.com/v1/chat/completions<br />
+model: gpt-3.5-turbo<br />
+<br />
+## /project2 - Chat Completion Using React + Node.js<br />
+POST: https://api.openai.com/v1/chat/completions<br />
+model: gpt-3.5-turbo<br />
+<br />
 
